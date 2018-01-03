@@ -1,2 +1,2 @@
-# learnGit
-A Demo for Learn GitHub
+# Learn Git
+> A Demo for *Learn* GitHub
